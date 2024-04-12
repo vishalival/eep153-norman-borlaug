@@ -1,8 +1,10 @@
 # eep153-norman-borlaug
 
-Hi everyone, we are Team Norman Borlaug!
+Hi everyone, we are Team Norman Borlaug! Our members include:
 - Tia Pappas (email: tia.pappas@berkeley.edu, github: t-pappas)
 - Vishali Kirthi Vallioor (email: vishalivallioor@berkeley.edu, github: vishalival)
 - Levi Ding (email: levidyjj@berkeley.edu, github: levidyjj)
 - Elissa Mei (elissa.wm@berkeley.edu)
 - Yazda Cokgor (yscokgor@berkeley.edu)
+
+Our topic will be focusing on the comparison between Uganda and Tanzania food demands, and evaluatiing the most efficient policies to minimize inefficiencies. In our code, we compare the nutritional deficiencies across the two nations, and have created policy implementations based off of this. By targetting the demographic of children, who face high nutritional defficiencies in these countries, we have assessed that providing foods rich in vitamins and other nutritients through school-provided meals is effective. 
