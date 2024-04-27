@@ -3,7 +3,6 @@
 Hi everyone, we are Team Norman Borlaug! Our members include:
 - Tia Pappas (email: tia.pappas@berkeley.edu, github: t-pappas)
 - Vishali Kirthi Vallioor (email: vishalivallioor@berkeley.edu, github: vishalival)
-- Levi Ding (email: levidyjj@berkeley.edu, github: levidyjj)
 - Elissa Mei (elissa.wm@berkeley.edu, github: elissaxm)
 - Yazda Cokgor (yscokgor@berkeley.edu, github: Yscokgor)
 
